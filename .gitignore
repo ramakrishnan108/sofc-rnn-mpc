@@ -1,0 +1,6 @@
+   data/*.npz
+   __pycache__/
+   *.pyc
+   results/fp_checkpoint.pkl
+   results/closed_loop_logs.npz
+   .ipynb_checkpoints/
